@@ -5,6 +5,7 @@
 }
 console.log(reverse_a_number());*/
 
+//panlindrom number:
 /*function check() {
   var word = prompt("whats your number", "word");
   var x = word.length;
